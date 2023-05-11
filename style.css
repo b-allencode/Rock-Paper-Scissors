@@ -1,0 +1,38 @@
+#gameDiv{
+    font-family: 'Arial';
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgb(182, 255, 255);
+    text-align: center;
+
+}
+.choiceBtn{
+    line-height: 30px;
+    width: 100px;
+    background-color: rgb(145, 145, 201);
+    border-radius: 10px;
+    color: white;
+    text-shadow: 2px black;
+}
+
+#playerText{
+    color: darkblue;
+    text-shadow: 2px red;
+
+}
+
+#computerText {
+    color: darkred;
+
+}
+
+.computerScore {
+    font-size: 25px;
+    color: #dd1e1e
+}
+
+.playerScore {
+    font-size: 25px;
+    color: blue;
+}
